@@ -1,0 +1,17 @@
+C:\Users\pedro\source\repos\ChequePorExtenso.ConsoleApp\ChequePorExtenso.Test\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\pedro\source\repos\ChequePorExtenso.ConsoleApp\ChequePorExtenso.Test\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\pedro\source\repos\ChequePorExtenso.ConsoleApp\ChequePorExtenso.Test\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\pedro\source\repos\ChequePorExtenso.ConsoleApp\ChequePorExtenso.Test\bin\Debug\ChequePorExtenso.Test.dll
+C:\Users\pedro\source\repos\ChequePorExtenso.ConsoleApp\ChequePorExtenso.Test\bin\Debug\ChequePorExtenso.Test.pdb
+C:\Users\pedro\source\repos\ChequePorExtenso.ConsoleApp\ChequePorExtenso.Test\bin\Debug\ChequePorExtenso.exe
+C:\Users\pedro\source\repos\ChequePorExtenso.ConsoleApp\ChequePorExtenso.Test\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+C:\Users\pedro\source\repos\ChequePorExtenso.ConsoleApp\ChequePorExtenso.Test\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+C:\Users\pedro\source\repos\ChequePorExtenso.ConsoleApp\ChequePorExtenso.Test\bin\Debug\ChequePorExtenso.pdb
+C:\Users\pedro\source\repos\ChequePorExtenso.ConsoleApp\ChequePorExtenso.Test\bin\Debug\ChequePorExtenso.exe.config
+C:\Users\pedro\source\repos\ChequePorExtenso.ConsoleApp\ChequePorExtenso.Test\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+C:\Users\pedro\source\repos\ChequePorExtenso.ConsoleApp\ChequePorExtenso.Test\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+C:\Users\pedro\source\repos\ChequePorExtenso.ConsoleApp\ChequePorExtenso.Test\obj\Debug\ChequePorExtenso.Test.csprojAssemblyReference.cache
+C:\Users\pedro\source\repos\ChequePorExtenso.ConsoleApp\ChequePorExtenso.Test\obj\Debug\ChequePorExtenso.Test.csproj.CoreCompileInputs.cache
+C:\Users\pedro\source\repos\ChequePorExtenso.ConsoleApp\ChequePorExtenso.Test\obj\Debug\ChequePorExtenso.Test.csproj.CopyComplete
+C:\Users\pedro\source\repos\ChequePorExtenso.ConsoleApp\ChequePorExtenso.Test\obj\Debug\ChequePorExtenso.Test.dll
+C:\Users\pedro\source\repos\ChequePorExtenso.ConsoleApp\ChequePorExtenso.Test\obj\Debug\ChequePorExtenso.Test.pdb
